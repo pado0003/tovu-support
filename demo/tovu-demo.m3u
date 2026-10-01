@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tovu.news" tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/logos/tovu-news.png" group-title="DE: Nachrichten",Tovu News HD
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="wetter.24" tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/logos/wetter-24.png" group-title="DE: Nachrichten",Wetter 24
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="arena.sport1" tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/logos/arena-sport-1.png" group-title="DE: Sport",Arena Sport 1 HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="arena.sport2" tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/logos/arena-sport-2.png" group-title="DE: Sport",Arena Sport 2 HD
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="kino.plus" tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/logos/kino-plus.png" group-title="DE: Unterhaltung",Kino Plus HD
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="doku.welt" tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/logos/doku-welt.png" group-title="DE: Dokumentation",Doku Welt
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="kids.zone" tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/logos/kids-zone.png" group-title="DE: Kinder",Kids Zone
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="musik.live" tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/logos/musik-live.png" group-title="DE: Musik",Musik Live
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="info.directe" tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/logos/info-directe.png" group-title="FR: Info",Info Directe HD
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="desporto.mais" tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/logos/desporto-mais.png" group-title="PT: Desporto",Desporto Mais HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/posters/tears-of-steel.jpg" group-title="Filme: Science-Fiction",Tears of Steel (2012)
+https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/posters/elephants-dream.jpg" group-title="Filme: Animation",Elephants Dream (2006)
+https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/posters/big-buck-bunny.jpg" group-title="Filme: Animation",Big Buck Bunny – Trailer (2008)
+https://download.blender.org/peach/trailer/trailer_1080p.mov
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/posters/sintel.jpg" group-title="Filme: Fantasy",Sintel – Trailer (2010)
+https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/posters/open-movie-shorts.jpg" group-title="Serien: Kurzfilme",Open Movie Shorts S01E01
+https://download.blender.org/peach/trailer/trailer_480p.mov
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/posters/open-movie-shorts.jpg" group-title="Serien: Kurzfilme",Open Movie Shorts S01E02
+https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pado0003/tovu-support/main/demo/posters/open-movie-shorts.jpg" group-title="Serien: Kurzfilme",Open Movie Shorts S01E03
+https://download.blender.org/peach/trailer/trailer_1080p.mov
