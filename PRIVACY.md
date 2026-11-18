@@ -38,8 +38,10 @@ In der App findest du sie unter Einstellungen › Datenschutz.
 ## Deine Rechte
 
 Du kannst Auskunft, Berichtigung und Löschung verlangen und deine Einwilligung jederzeit widerrufen. Nenne dazu den
-Support-Code aus Einstellungen › Datenschutz, dann werden alle Daten dieses Geräts gelöscht. Ein Tovu-Konto kannst du
-löschen lassen. Du kannst dich außerdem bei einer Datenschutzbehörde beschweren (in Luxemburg: CNPD).
+Support-Code aus Einstellungen › Datenschutz, dann werden alle Daten dieses Geräts gelöscht. Ein Tovu-Konto löschst du
+selbst: in der App unter Tovu-Konto › „Konto löschen“ oder ohne App auf
+<https://tovu-admin-production.up.railway.app/account/delete>. Gelöscht werden das Konto, die verschlüsselte Kopie
+auf dem Server und die Verbindung zu deinen Geräten; die Daten auf deinen Geräten bleiben dort. Du kannst dich außerdem bei einer Datenschutzbehörde beschweren (in Luxemburg: CNPD).
 
 ## Kontakt
 
@@ -52,4 +54,5 @@ on your device. Diagnostics (crashes, errors, start times, device model, app ver
 the EU only with your consent; channel names only with a separate opt-in. Credentials, server addresses and film or
 series titles are never part of the diagnostics. With an optional Tovu account your data is synchronised as an
 encrypted package the server cannot read. Subtitle translation and speech captions run on the device; the
-language packs come from Apple.
+language packs come from Apple. You can delete your Tovu account yourself, in the app or at
+<https://tovu-admin-production.up.railway.app/account/delete>.
