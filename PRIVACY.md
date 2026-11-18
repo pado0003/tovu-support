@@ -25,10 +25,15 @@ In der App findest du sie unter Einstellungen › Datenschutz.
 ## Mit wem die App Verbindung aufnimmt
 
 - **Mit deiner eigenen Quelle** (deinem Anbieter), um Senderlisten und Videos zu laden.
+- **Mit den Bildservern, die deine Quelle angibt**, um Plakate und Senderlogos zu laden (oft The Movie Database,
+  TMDB). Dabei werden keine Zugangsdaten übertragen; die Server sehen deine IP-Adresse.
 - **Mit öffentlichen TV-Guide-Servern** (XMLTV), um Programminformationen zu laden. Dabei werden keine Zugangsdaten
   übertragen; die Server sehen deine IP-Adresse, wie bei jedem Website-Aufruf.
 - **Mit dem Tovu-Server**, wenn du Diagnosedaten erlaubt hast, ein Problem meldest oder ein Tovu-Konto nutzt.
 - **Android:** mit GitHub, um nach App-Updates zu suchen.
+- **iPhone, iPad und Mac:** mit Apple, um Sprachpakete für „Untertitel übersetzen“ und „Ton mitschreiben“ zu laden,
+  nur wenn du eine der beiden Funktionen einschaltest. Übersetzung und Spracherkennung laufen auf deinem Gerät;
+  Untertitel und Ton verlassen es dabei nicht.
 
 ## Deine Rechte
 
@@ -46,4 +51,5 @@ no ads and uses no third-party tracking. Without a Tovu account your source cred
 on your device. Diagnostics (crashes, errors, start times, device model, app version) are sent to the Tovu server in
 the EU only with your consent; channel names only with a separate opt-in. Credentials, server addresses and film or
 series titles are never part of the diagnostics. With an optional Tovu account your data is synchronised as an
-encrypted package the server cannot read.
+encrypted package the server cannot read. Subtitle translation and speech captions run on the device; the
+language packs come from Apple.
